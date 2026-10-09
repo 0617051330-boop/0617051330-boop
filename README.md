@@ -1,13 +1,13 @@
-## Hi there 👋
+🎀 Welcome to my GitHub!
 
-<!--
-**0617051330-boop/0617051330-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on coding and technology.
-- 🌱 I’m currently learning computure science, python, git, javascript.
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about: reading. 
-- 📫 How to reach me: call me
-- 😄 Pronouns: She,her
+🌸 Student & beginner coder
+💻 Learning more about coding and technology
+🎨 I like art, creativity, and making new things
+🌎 Interested in different cultures and places
+📚 Currently learning and working on school projects
+✨ Always trying to learn something new
+💻 What I'm Learning:
+HTML & CSS
+JavaScript
+Python
+Git & GitHub
